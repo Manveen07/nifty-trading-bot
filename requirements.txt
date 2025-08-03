@@ -1,0 +1,20 @@
+# Data Handling
+yfinance
+pandas
+numpy
+
+# Technical Indicators
+ta
+
+# Machine Learning
+scikit-learn
+
+# Google Sheets API
+gspread
+oauth2client
+
+# Logging / Utilities
+python-dotenv
+
+# (Optional) Telegram Alerts
+requests
